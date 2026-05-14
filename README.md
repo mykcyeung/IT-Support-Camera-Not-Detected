@@ -55,6 +55,7 @@ Settings → Privacy & Security → Camera
 - Performed repair and reset  
 
 - Result: ❌ No improvement
+  
 ![Camera Reset](./reset.png)
 
 ---

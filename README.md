@@ -6,6 +6,7 @@
 
 Camera failed to work and showed:
 > "Can't find the camera"
+
 ![Camera Fail](./fail.png)
 ---
 
